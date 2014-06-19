@@ -4,6 +4,10 @@ http://forums.na.leagueoflegends.com/board/showthread.php?t=4455820
 suggestions are welcome!
 -If you repost this program, please keep a link back to the original forum thread!
 
+Preview of GUI (V2):
+
+![GUI Preview](http://i.imgur.com/09K9AHY.jpg)
+
 Thank you for downloading my awesome program ^_^
 Here are some basic instructions on how to use it.
 
