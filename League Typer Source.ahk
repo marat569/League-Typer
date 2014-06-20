@@ -1,5 +1,5 @@
 ﻿#NoEnv ;just something autohotkey scripts start with
-﻿
+
 ;Start making variables global so they work inside of functions
 global MyIniFile =
 global ReadIniF2 =
